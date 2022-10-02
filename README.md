@@ -1,3 +1,3 @@
 # ToDoList
 
-Todo list app using Javaimplemented with MySQL Database.
+Todo list app using Java implemented with MySQL Database.
